@@ -1,4 +1,4 @@
 ### Zadania-OOP
 
-#Opis
-Zadanie Java OOP
+##Opis
+#This JAVA file has 3 classes(Address, Dane, Osoba) and main class.
